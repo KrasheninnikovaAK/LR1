@@ -17,7 +17,7 @@ export default function GetAuth() {
       const divStyle = {
         top:'250px',
         left:'250px',
-        background: 'grey',
+        background: 'blue',
         color: 'black',
         fontSize: '25px',
       };
