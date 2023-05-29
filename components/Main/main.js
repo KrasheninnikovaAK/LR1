@@ -4,7 +4,7 @@ function Main() {
   const divStyle = {
     width:'100%',
     height: '750px',
-    background: 'grey',
+    background: 'blue',
     color: 'black',
     fontSize: '25px',
   };
